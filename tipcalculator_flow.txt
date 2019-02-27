@@ -1,0 +1,23 @@
+This program takes the total value of a meal, then calculates and provides the output for a 10%, 15%, and 20% tip.
+
+INPUT: Total bill of meal (meal_bill)
+
+OUTPUT:  10% tip (tip10), 15% tip (tip15), 20% tip (tip20)
+
+1. Ask the user to input the total price of the bill. (meal_bill = float( input (Please insert the total price of the bill: ))
+
+2. Calculate the total for the 10% tip by multiplying meal_bill with .10 (tip10).
+
+3. Calculate the total for the 15% tip by multiplying meal_bill with .15 (tip15).
+
+4. Calculate the total for the 20% tip by multiplying meal_bill with .20 (tip20).
+
+5. Display the total tip as a float, formatted up to 2 decimal points.
+
+["Here's what the tip values are:
+
+10% tip: $##.##
+
+15% tip: $##.##
+
+20% tip: $##.##]

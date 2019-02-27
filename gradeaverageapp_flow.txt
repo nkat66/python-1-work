@@ -1,0 +1,15 @@
+This program takes three grades, adds them together, and then divides the sum of those three grades to obtain the average.
+
+INPUT:  Test Score #1 (test1), Test Score #2 (test2), Test Score #3 (test3)
+
+OUTPUT:  Grade Average (average)
+
+1. Input the first test score (float).
+
+2. Input the second test score (float).
+
+3. Input the third test score (float).
+
+4. Set average as = (test1 + test2 + test3) / 3
+
+5. Display the average and format it to two decimal points ("The average score is: ", average, ".2f")
